@@ -1,3 +1,28 @@
 I am not sure what vim LOG does, but I think this is interesting. I wish the club is as intereseting as the task I am doing right now.
 
 I am gonna add one more thing here: being a Mechanical Engineer is lit!
+ 
+I'm looking forward to use arduino!
+
+(base) anMBP:bootcamp ansomin$ git log
+commit 93ff673ba26ce492823385d7b1d54cdc4609c07b (HEAD -> ansomin, origin/ansomin)
+Author: ansomin <ansomin@umich.edu>
+Date:   Thu Sep 24 18:41:17 2020 -0400
+
+    Initial commit. Added sentence in LOG
+
+commit f83b8987dc1fad87e0b10948806003e20139735a (origin/master, origin/danielyan0602, origin/HEAD, master)
+Author: 丹尼 <danni@dannideMacBook-Pro.local>
+Date:   Thu Sep 24 17:29:39 2020 -0400
+
+    I have added a line in this file
+
+commit b77561a15030200c51874427f7f30405eb4465a9
+Author: 丹尼 <danni@dannideMacBook-Pro.local>
+Date:   Thu Sep 24 17:25:47 2020 -0400
+
+    This is a commit message for commiting the LOG file
+
+commit bf3bab6b86592ff13b7f132d2e52d20a6d2883d8
+Author: Maxton Wilson <MaxtonTheGreat@gmail.com>
+Date:   Wed Sep 23 16:07:31 2020 -0400
