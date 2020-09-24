@@ -24,14 +24,14 @@ Next, add, commit, and push your changes to your branch (yourFavoriteFood). Try 
 ```
 git add LOG
 git commit -m "This is a commit message"
-git push origin yourFavoriteFood
+git push -u origin yourFavoriteFood
 ```
 
 Now, run `git log` and copy the log (see [Quick Tips](https://github.com/MichiganNeuroProsthetics/bootcamp#quick-tips) for information about copying). Then, edit "LOG" by pulling it up with `vi LOG` and following the same steps as before to modify the file. Append your copied Git log at the end of the file and exit. Add, commit, and push as earlier with any commit message you'd like.
 
 Now, we will switch back to the main branch using either `git checkout master` or simply `git checkout`. Enter `git merge yourFavoriteFood` to merge the branch "yourFavoriteFood" with whatever branch you currently are on. Here, this will be the master branch. You will be unable to do so if new changes have come in since you have last pulled, so you must instead resolve the merge conflict. If you cloned the repository in the first session, you will experience such an issue. This is intentional and will give you practice in resolving them. 
 
-First, use `git pull` to synchronize your remote with the head i.e. make sure you have the latest version. Now, you may try `git merge yourFavoriteFood` again. Merge conflcits can take a few forms, and theyre not uncommon in development, but they also doesn't have to be annoying if you know what you're doing. You may either have to go in the file and fix the changes yourself, or you may be presented with a dialog window. If you experience the latter, you may simply exit with "Ctrl+X" since there is no necessary message or otherwise edits to be made. For more information about merge conflicts, visit [this page](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts). After resolving the conflict (don't delete others' messages!), enter `git commit` with any message you'd like. For merges outside of branching, you will need to push (`git push origin master`).
+First, use `git pull` to synchronize your remote with the head i.e. make sure you have the latest version. Now, you may try `git merge yourFavoriteFood` again. Merge conflcits can take a few forms, and theyre not uncommon in development, but they also doesn't have to be annoying if you know what you're doing. You may either have to go in the file and fix the changes yourself, or you may be presented with a dialog window. If you experience the latter, you may simply exit with "Ctrl+X" since there is no necessary message or otherwise edits to be made. For more information about merge conflicts, visit [this page](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts). After resolving the conflict (don't delete others' messages!), enter `git commit` with any message you'd like. For merges outside of branching, you will need to push (`git push -u origin master`).
 
 # Quick Tips
 You can use `Ctrl+C` at any point in bash to cease an action, such as entering a password, pushing, or downloading if things aren't going well.
