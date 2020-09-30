@@ -29,7 +29,13 @@ Date:   Wed Sep 23 16:07:31 2020 -0400
 
 I AM PRACTICING MERGING MY BRANCH TO MAIN
 
+
 I am very excited to learn more about using Arduino and engaging in cool projects!
 
+commit 772ee670c00a9e0b34f1fbe750ce1783671895bc (HEAD -> Pasta, origin/Pasta)
+Author: sergioq5 <sergioq@umich.edu>
+Date:   Wed Sep 30 11:36:59 2020 -0500
+
+    Added sentence in LOG
 
 
