@@ -4,8 +4,7 @@ I am gonna add one more thing here: being a Mechanical Engineer is lit!
  
 I'm looking forward to use arduino!
 
-(base) anMBP:bootcamp ansomin$ git log
-commit 93ff673ba26ce492823385d7b1d54cdc4609c07b (HEAD -> ansomin, origin/ansomin)
+(base) anMBP:bootcamp ansomin$ git logcommit 93ff673ba26ce492823385d7b1d54cdc4609c07b (HEAD -> ansomin, origin/ansomin)
 Author: ansomin <ansomin@umich.edu>
 Date:   Thu Sep 24 18:41:17 2020 -0400
 
@@ -38,4 +37,4 @@ Date:   Wed Sep 30 11:36:59 2020 -0500
 
     Added sentence in LOG
 
-
+Im looking forward to learning how to use Arduino. 
