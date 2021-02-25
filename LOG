@@ -1,4 +1,31 @@
-<<<<<<< HEAD
+commit 151e1879160b670ae45ad43515b2860296086517 (HEAD -> master, origin/master, origin/HEAD)
+Merge: 9b63bd0 7d72a09
+Author: Elkin Bayraktar <elkinbayraktar@Elkins-MacBook-Pro.local>
+Date:   Mon Feb 22 16:40:30 2021 -0500
+
+    My first commit
+
+commit 9b63bd0468c32884928011c7e45936fed736d963
+Author: Elkin Bayraktar <elkinbayraktar@Elkins-MacBook-Pro.local>
+Date:   Mon Feb 22 16:38:27 2021 -0500
+
+    I'm comitting this line
+
+commit 78a21a6bed2e1dc4c95bdea03748dd2935e76c42
+Author: Elkin Bayraktar <elkinbayraktar@Elkins-MacBook-Pro.local>
+Date:   Mon Feb 22 14:35:40 2021 -0500
+
+    [I have added my favorite comic book onomatopoeia to the file]
+
+commit 7d72a09bba6b15fba72994fb0cb706564c14c7be (yourFavoriteFood_yourFirstName)
+Author: Elkin Bayraktar <elkinbayraktar@Elkins-MacBook-Pro.local>
+Date:   Mon Feb 22 13:27:21 2021 -0500
+
+    [I have added a line to the file]
+
+commit 87d6ad2819ac7b79218697ad57cea322abcc7c65
+Author: Elkin Bayraktar <elkinbayraktar@Elkins-MacBook-Pro.local>
+:
 <<<<<<< HEAD
 SKIBOP!!
 I'm looking forward to working with software used for arduino!!!
@@ -51,5 +78,12 @@ Author: sergioq5 <sergioq@umich.edu>
 Date:   Wed Sep 30 11:36:59 2020 -0500
 
     Added sentence in LOG
+
+
+
+
+
+
+
 
 
